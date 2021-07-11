@@ -16,7 +16,7 @@
         "doc"
       ]
     },
-   {
+    {
       "login": "specter25",
       "name": "Ujjwal Agarwal",
       "avatar_url": "https://avatars.githubusercontent.com/u/56391382?v=4",
@@ -26,8 +26,16 @@
         "doc",
         "code"
       ]
+    },
+    {
+      "login": "shubhank-saxena",
+      "name": "Shubhank Saxena",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29003047?v=4",
+      "profile": "http://shubhank.codes",
+      "contributions": [
+        "code"
+      ]
     }
-
   ],
   "contributorsPerLine": 7,
   "projectName": "GSoC-Proposals-Archive",
