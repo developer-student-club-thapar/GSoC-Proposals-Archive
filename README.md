@@ -30,28 +30,9 @@ This repository contains GSoC Proposals submitted by various aspirants across th
   |-Rejected
 ```
 
-## Contribution to the project / How to add your Proposal?
+## Contributing to the project / How to add your Proposal?
 
-Have a look at the [Contributing.md](url) file.
-
-<div align="center">
-
-[![GitHub issues](https://img.shields.io/github/issues/developer-student-club-thapar/GSoC-Proposals-Archive?logo=github)](https://github.com/developer-student-club-thapar/GSoC-Proposals-Archive/issues) ![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/developer-student-club-thapar/GSoC-Proposals-Archive?logo=git&logoColor=white) ![GitHub contributors](https://img.shields.io/github/contributors/developer-student-club-thapar/GSoC-Proposals-Archive?logo=github)
-
-</div>
-We follow a systematic Git Workflow -
-
-- Create a fork of this repo.
-- Clone your fork of your repo on your pc.
-- [Add Upstream to your clone](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/configuring-a-remote-for-a-fork)
-- **Every change** that you do, it has to be on a branch. Commits on master would directly be closed.
-- Make sure that before you create a new branch for new changes,[syncing with upstream](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/syncing-a-fork) is neccesary.
-
-**Commits**
-
-- Write clear meaningful git commit messages (Do read [this](http://chris.beams.io/posts/git-commit/)).
-- Make sure your PR's description contains GitHub's special keyword references that automatically close the related issue when the PR is merged. (Check [this](https://github.com/blog/1506-closing-issues-via-pull-requests) for more info)
-- When you make very very minor changes to a PR of yours make sure you squash your commits afterward so that you don't have an absurd number of commits for a very small fix. (Learn how to squash at [here](https://davidwalsh.name/squash-commits-git))
+Have a look at the [CONTRIBUTION.md](https://github.com/developer-student-club-thapar/GSoC-Proposals-Archive/blob/main/CONTRIBUTION.md) file.
 
 #### Note
 
