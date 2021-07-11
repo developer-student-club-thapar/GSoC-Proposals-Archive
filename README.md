@@ -55,7 +55,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="http://blog.saurav-shrivastav.tech"><img src="https://avatars.githubusercontent.com/u/54510448?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Saurav Shrivastav</b></sub></a><br /><a href="https://github.com/developer-student-club-thapar/GSoC-Proposals-Archive/commits?author=Saurav-Shrivastav" title="Code">💻</a></td>
+    <td align="center"><a href="http://blog.saurav-shrivastav.tech"><img src="https://avatars.githubusercontent.com/u/54510448?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Saurav Shrivastav</b></sub></a><br /><a href="https://github.com/developer-student-club-thapar/GSoC-Proposals-Archive/commits?author=Saurav-Shrivastav" title="Code">💻</a> <a href="#maintenance-Saurav-Shrivastav" title="Maintenance">🚧</a> <a href="https://github.com/developer-student-club-thapar/GSoC-Proposals-Archive/commits?author=Saurav-Shrivastav" title="Documentation">📖</a></td>
   </tr>
 </table>
 
