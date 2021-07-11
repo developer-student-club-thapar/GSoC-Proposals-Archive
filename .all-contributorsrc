@@ -1,0 +1,26 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "Saurav-Shrivastav",
+      "name": "Saurav Shrivastav",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54510448?v=4",
+      "profile": "http://blog.saurav-shrivastav.tech",
+      "contributions": [
+        "code",
+        "maintenance",
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "GSoC-Proposals-Archive",
+  "projectOwner": "developer-student-club-thapar",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
