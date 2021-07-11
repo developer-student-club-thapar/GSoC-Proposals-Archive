@@ -13,8 +13,8 @@ Feel free to get your queries resolved.
 **Please make sure you have,**
 
 - Reviewed the [Questions]() asked by our community members and contributers.
-- Searched opened and closed [GitHub issues]()
+- Searched opened and closed [GitHub issues](https://github.com/developer-student-club-thapar/GSoC-Proposals-Archive/issues)
 
 **We primarily use GitHub as an issue tracker; for usage and support questions, please check out these resources below. Thanks!**
 
-- [GSoC-Proposals-Archive Readme]()
+- [GSoC-Proposals-Archive Readme](https://github.com/developer-student-club-thapar/GSoC-Proposals-Archive#readme)

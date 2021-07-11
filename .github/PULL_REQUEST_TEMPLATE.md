@@ -8,7 +8,7 @@ Summarize your changes here to communicate with the maintainers and make sure to
 
 What types of changes does your code introduce to GSoC-Proposals-Archive? Put an `x` in the boxes that apply
 
-- [ ] New feature (non-breaking change which adds functionality)
+- [ ] New proposal (non-breaking change which adds functionality)
 - [ ] Bugfix (non-breaking change which fixes an issue)
 - [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
 - [ ] Documentation Update (if none of the other choices applies)
@@ -19,7 +19,7 @@ Put an `x` in the boxes that apply. You can also fill these out after creating t
 
 - [ ] I have read the [CONTRIBUTING]() doc
 - [ ] I have signed the commit for DCO to be passed.
-- [ ] Lint and unit tests pass locally with my changes
+- [ ] I have followed the file nameing convention in case of a new addition
 - [ ] I have added tests that prove my fix is effective or that my feature works (if appropriate)
 - [ ] I have added necessary documentation (if appropriate)
 
