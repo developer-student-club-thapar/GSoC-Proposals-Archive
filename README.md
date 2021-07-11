@@ -55,7 +55,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://ujjwalagarwal.netlify.app/"><img src="https://avatars.githubusercontent.com/u/56391382?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ujjwal Agarwal</b></sub></a><br /><a href="#maintenance-specter25" title="Maintenance">🚧</a> <a href="https://github.com/developer-student-club-thapar/GSoC-Proposals-Archive/commits?author=specter25" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://ujjwalagarwal.netlify.app/"><img src="https://avatars.githubusercontent.com/u/56391382?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ujjwal Agarwal</b></sub></a><br /><a href="#maintenance-specter25" title="Maintenance">🚧</a> <a href="https://github.com/developer-student-club-thapar/GSoC-Proposals-Archive/commits?author=specter25" title="Documentation">📖</a> <a href="https://github.com/developer-student-club-thapar/GSoC-Proposals-Archive/commits?author=specter25" title="Code">💻</a></td>
   </tr>
 </table>
 
