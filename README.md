@@ -1,4 +1,7 @@
 <div align = "center">
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <img height=200px src= "https://raw.githubusercontent.com/developer-student-club-thapar/officialWebsite/master/src/assets/dsc_logo.png">
 
@@ -42,3 +45,23 @@ Have a look at the [CONTRIBUTION.md](https://github.com/developer-student-club-t
 ## LICENSE
 [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
 
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="http://blog.saurav-shrivastav.tech"><img src="https://avatars.githubusercontent.com/u/54510448?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Saurav Shrivastav</b></sub></a><br /><a href="https://github.com/developer-student-club-thapar/GSoC-Proposals-Archive/commits?author=Saurav-Shrivastav" title="Code">💻</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
