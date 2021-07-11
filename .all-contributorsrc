@@ -15,7 +15,19 @@
         "maintenance",
         "doc"
       ]
+    },
+   {
+      "login": "specter25",
+      "name": "Ujjwal Agarwal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56391382?v=4",
+      "profile": "https://ujjwalagarwal.netlify.app/",
+      "contributions": [
+        "maintenance",
+        "doc",
+        "code"
+      ]
     }
+
   ],
   "contributorsPerLine": 7,
   "projectName": "GSoC-Proposals-Archive",
