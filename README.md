@@ -1,4 +1,7 @@
 <div align = "center">
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <img height=200px src= "https://raw.githubusercontent.com/developer-student-club-thapar/officialWebsite/master/src/assets/dsc_logo.png">
 
@@ -12,9 +15,6 @@
 
 # GSoC-Proposals-Archive
 
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
 [![Discord](https://img.shields.io/discord/743751114851090475.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/Ma9ZAGJ)
 [![GitHub issues](https://img.shields.io/github/issues/developer-student-club-thapar/GSoC-Proposals-Archive?logo=github)](https://github.com/developer-student-club-thapar/GSoC-Proposals-Archive/issues)
 ![GitHub repo size](https://img.shields.io/github/repo-size/developer-student-club-thapar/GSoC-Proposals-Archive)
@@ -56,6 +56,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="http://blog.saurav-shrivastav.tech"><img src="https://avatars.githubusercontent.com/u/54510448?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Saurav Shrivastav</b></sub></a><br /><a href="https://github.com/developer-student-club-thapar/GSoC-Proposals-Archive/commits?author=Saurav-Shrivastav" title="Code">💻</a> <a href="#maintenance-Saurav-Shrivastav" title="Maintenance">🚧</a> <a href="https://github.com/developer-student-club-thapar/GSoC-Proposals-Archive/commits?author=Saurav-Shrivastav" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://ujjwalagarwal.netlify.app/"><img src="https://avatars.githubusercontent.com/u/56391382?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ujjwal Agarwal</b></sub></a><br /><a href="#maintenance-specter25" title="Maintenance">🚧</a> <a href="https://github.com/developer-student-club-thapar/GSoC-Proposals-Archive/commits?author=specter25" title="Documentation">📖</a> <a href="https://github.com/developer-student-club-thapar/GSoC-Proposals-Archive/commits?author=specter25" title="Code">💻</a></td>
+
   </tr>
 </table>
 
