@@ -1,7 +1,4 @@
 <div align = "center">
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <img height=200px src= "https://raw.githubusercontent.com/developer-student-club-thapar/officialWebsite/master/src/assets/dsc_logo.png">
 
@@ -15,6 +12,9 @@
 
 # GSoC-Proposals-Archive
 
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 [![Discord](https://img.shields.io/discord/743751114851090475.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/Ma9ZAGJ)
 [![GitHub issues](https://img.shields.io/github/issues/developer-student-club-thapar/GSoC-Proposals-Archive?logo=github)](https://github.com/developer-student-club-thapar/GSoC-Proposals-Archive/issues)
 ![GitHub repo size](https://img.shields.io/github/repo-size/developer-student-club-thapar/GSoC-Proposals-Archive)
