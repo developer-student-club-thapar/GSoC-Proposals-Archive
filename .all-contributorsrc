@@ -5,21 +5,16 @@
   "imageSize": 100,
   "contributorsPerLine": 7,
   "contributorsSortAlphabetically": false,
+  "types": {
+    "proposal": {
+      "symbol": "🔭",
+      "description": "Proposal contribution",
+    }
+  },
   "skipCi": "true",
   "projectName": "GSOC_proposal_Archive",
   "projectOwner": "developer-student-club-thapar",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "contributors": [
-    {
-      "login": "Saurav-Shrivastav",
-      "name": "Saurav Shrivastav",
-      "avatar_url": "https://avatars.githubusercontent.com/u/54510448?v=4",
-      "profile": "https://github.com/Saurav-Shrivastav",
-      "contributions": [
-        "maintenance"
-      ]
-    }
-  ],
   "commitConvention": "none"
 }
