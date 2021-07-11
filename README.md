@@ -55,5 +55,4 @@ We follow a systematic Git Workflow -
 - If you are adding a proposal please try to follow the file naming conventions that is  `YearOfSubmission_YourName.pdf`
 - Add the proposal only in pdf format . No other format will be accepted .
 
-## Runtime Instructions
 
