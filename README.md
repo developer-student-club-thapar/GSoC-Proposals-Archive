@@ -26,6 +26,7 @@ This repository contains GSoC Proposals submitted by various aspirants across th
 * [Mozilla](Mozilla)
 * [OpenWISP](OpenWISP)
 * [PostgreSQL](PostgreSQL)
+* [SCoRe Labs](SCoRe%20Labs)
 * [SPDX](SPDX)
 
 
