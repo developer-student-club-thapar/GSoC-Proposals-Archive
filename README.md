@@ -20,6 +20,15 @@
 
 This repository contains GSoC Proposals submitted by various aspirants across the years. The proposals have been sorted firstly on the basis of the organization to which they were applied and then based on whether they were accepted or rejected.  </div>
 
+## Featured Organizations
+* [Cloud Native Computing Foundation](CNCF)
+* [GFOSS Open Technology Alliance](GFOSS-Open-Technology-Alliance)
+* [Morzilla](Morzilla)
+* [OpenWISP](OpenWISP)
+* [PostgreSQL](PostgreSQL)
+* [SPDX](SPDX)
+
+
 ## Basic Layout of the repository
 
 - Every folder in the repo root represents the organization to which a particular proposal was applied .
