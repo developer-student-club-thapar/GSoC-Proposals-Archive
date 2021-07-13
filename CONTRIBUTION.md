@@ -18,6 +18,9 @@ There are several areas of GSoC-Proposals-Archive that could use your help. For 
 * Create a branch from where you want to base your work (usually master).
 * [Add Upstream to your clone](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/configuring-a-remote-for-a-fork)
 * Make your changes.
+* For adding a new organisation - 
+    * Make sure to add it to the list of `Featured Organisations` section of the README.
+    * You can check `.sample_folder` in the root of the repo for a sample.
 * Commit your changes by making sure the commit messages convey the need and notes about the commit.
 * Push your changes to the branch in your fork of the repository.
 * Submit a pull request to the original repository. See [Pull Request checklist](#pull-request-checklist)
@@ -29,6 +32,7 @@ There are several areas of GSoC-Proposals-Archive that could use your help. For 
 * In case the repository root deesn't has the folder of the organization you submitted your proposal to , add a new folder using the following steps :
     - Add a folder in the repo root named after the organization eg: CNCF
     - Add 2 folders inside the newly created organization folder name `Accepted` and `Rejected` respectively .
+    - **NOTE:** If a folder does not have any file, you should add a blank `.gitkeep` file, so that the folder is tracked by the VCS.
     - Add your proposal to the appropriate sub folder following the file naming conventions .
 
 ## Pull Request Checklist :
