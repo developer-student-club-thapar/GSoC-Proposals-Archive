@@ -44,6 +44,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "kush-daga",
+      "name": "Kush Daga",
+      "avatar_url": "https://avatars.githubusercontent.com/u/40840079?v=4",
+      "profile": "http://kushdaga.in",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
