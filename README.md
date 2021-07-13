@@ -23,7 +23,7 @@ This repository contains GSoC Proposals submitted by various aspirants across th
 ## Featured Organizations
 * [Cloud Native Computing Foundation](CNCF)
 * [GFOSS Open Technology Alliance](GFOSS-Open-Technology-Alliance)
-* [Morzilla](Morzilla)
+* [Mozilla](Mozilla)
 * [OpenWISP](OpenWISP)
 * [PostgreSQL](PostgreSQL)
 * [SPDX](SPDX)
