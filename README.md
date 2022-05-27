@@ -68,6 +68,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="http://shubhank.codes"><img src="https://avatars.githubusercontent.com/u/29003047?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Shubhank Saxena</b></sub></a><br /><a href="https://github.com/developer-student-club-thapar/GSoC-Proposals-Archive/commits?author=shubhank-saxena" title="Code">💻</a></td>
     <td align="center"><a href="http://chiragkasat.com"><img src="https://avatars.githubusercontent.com/u/30055377?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Chirag Kasat</b></sub></a><br /><a href="https://github.com/developer-student-club-thapar/GSoC-Proposals-Archive/commits?author=ChiragKasat" title="Code">💻</a></td>
     <td align="center"><a href="http://kushdaga.in"><img src="https://avatars.githubusercontent.com/u/40840079?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Kush Daga</b></sub></a><br /><a href="https://github.com/developer-student-club-thapar/GSoC-Proposals-Archive/commits?author=kush-daga" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/SanyaNanda"><img src="https://avatars.githubusercontent.com/u/51756349?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sanya Nanda</b></sub></a><br /><a href="https://github.com/developer-student-club-thapar/GSoC-Proposals-Archive/commits?author=SanyaNanda" title="Code">💻</a></td>
   </tr>
 </table>
 
